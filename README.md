@@ -1,4 +1,4 @@
-# Sobre o Projeto
+# SOBRE O PROJETO
 O seguinte projeto tem como objetivo, dado um arquivo contendo informações sobre projetos e alunos, fazer a leitura desse arquivo e produzir um programa em Python que realiza um **emparelhamento estável máximo** entre o conjunto de alunos e o conjunto de projetos.
 
 ---
