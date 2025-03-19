@@ -60,3 +60,11 @@ Para o funcionamento correto do código, o arquivo (`"info.txt"`) contendo as in
 2. Ao chegar ao diretório, digite e execute o comando:  
    ```bash
    python main.py
+   ```
+---
+   
+# DOCUMENTAÇÃO DO NETWORKX
+- NetworkX: networkx.org/documentation
+
+
+
